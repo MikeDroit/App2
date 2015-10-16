@@ -8,6 +8,7 @@
   <vs:features />
   <preference name="SplashScreen" value="screen" />
   <preference name="windows-target-version" value="8.1" />
+  
 
   <!-- Support for Cordova 5.0.0 plugin system -->
   <plugin name="cordova-plugin-whitelist" version="1" />
@@ -32,6 +33,7 @@
     <icon src="res/icons/android/icon-48-mdpi.png" density="mdpi" />
     <icon src="res/icons/android/icon-72-hdpi.png" density="hdpi" />
     <icon src="res/icons/android/icon-96-xhdpi.png" density="xhdpi" />
+     
   </platform>
 
   <platform name="ios">
@@ -92,6 +94,7 @@
     <splash src="res/screens/android/screen-ldpi-portrait.png" density="port-ldpi"/>
     <splash src="res/screens/android/screen-mdpi-portrait.png" density="port-mdpi"/>
     <splash src="res/screens/android/screen-xhdpi-portrait.png" density="port-xhdpi"/>
+  
   </platform>
 
   <platform name="ios">
